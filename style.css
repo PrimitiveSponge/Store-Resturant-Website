@@ -1,0 +1,33 @@
+.title {
+    border: 5px dashed;
+
+    list-style: none;
+    width: 50%;
+    margin: auto;
+
+    text-align: center;
+}
+
+.title>li {
+    display: inline-block
+    -webkit-inline-box
+}
+
+p {
+    color: black;
+    font-family: monospace;
+}
+
+.title>li>a:hover {
+    background-color: black;
+}
+.bb {
+    text-align: center;
+}
+
+.source {
+    border: 5px dashed;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
